@@ -1,4 +1,4 @@
-# Hi there 👋 I'm <a href="https://yigitcakmak.com" target="_blank">Yiğit</a>!
+# Hi there 👋 I'm <a href="https://yigitcakmak.com" target="_blank">Yiğit Çakmak</a>!
 
 
 <a href="https://www.linkedin.com/in/yigit-cakmak/" target="_blank"><img align="left" alt="Yiğit Çakmak | LinkedIn" width="25px" src="media/linkedin.svg" /></a>
