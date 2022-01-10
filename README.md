@@ -9,11 +9,16 @@
 <div size='20px'>💡 &nbsp;Enthusiastic and dynamic software developer with a demonstrated working and never ending passion.  </div>
 <div size='20px'> ❤️ &nbsp;Work to deepen in the fields I enjoy, to come to a good position in computer science with a solid education and experience, and to make the best contributions to this science.</div>
 <div size='20px'> ⚡ &nbsp;I am responsible and I self-organization myself wonderfully. I resolve issues and find best solutions. </div>
+</br>
 
 <div size='15px'>
-    <a href = 'https://www.linkedin.com/in/yigit-cakmak'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+    <a href = 'https://www.linkedin.com/in/yigit-cakmak'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 </div>
+
+<p align="center">
+    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</p>
 
 ## 🛠 &nbsp; Tech Stack
 
@@ -67,9 +72,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-
-<p align="center">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-</p>
-
