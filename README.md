@@ -13,46 +13,27 @@
 <a href="https://www.linkedin.com/in/yigit-cakmak/" target="_blank"><img align="left" alt="Yiğit Çakmak | LinkedIn" width="25px" src="media/linkedin.svg" /></a>
 .
 
-## Language & Tools
+## Tech Stack
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+### Backend
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Google Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
-<p align="left">
+### Database
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img src="media/react.svg" height="auto" width="40">
-
-<img src="media/nextjs.png" height="auto" width="60">
-
-<img src="media/redux.svg" height="auto" width="40">
-
-<img src="media/firebase.svg" height="auto" width="40">
-
-<img src="media/javascript.svg" height="auto" width="40">
-
-<img src="media/gulp.svg" height="auto" width="30">
-
-<img src="media/html5.svg" height="auto" width="40">
-
-<img src="media/css3.svg" height="auto" width="40">
-
-<img src="media/sass.svg" height="auto" width="40">
-
-<img src="media/python.svg" height="auto" width="40">
-
-<img src="media/keras.png" height="auto" width="80">
-
-<img src="media/django.png" height="auto" width="80">
-
-<img src="media/php.svg" height="auto" width="40">
-
-<img src="media/codeigniter.svg" height="auto" width="35">
-
-<img src="media/visual-studio-code.png" height="auto" width="35">
-
-<img src="media/git.svg" height="auto" width="40">
-
-<img src="media/mint.png" height="auto" width="40">
-
-<img src="media/figma.svg" height="auto" width="25">
-
-</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
