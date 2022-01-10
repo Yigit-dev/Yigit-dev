@@ -1,4 +1,10 @@
-# Hi there 👋 I'm <a href="https://yigitcakmak.com" target="_blank">Yiğit Çakmak</a>!
+<p align="center">
+    <img width="200" src="media/react.svg">
+</p>
+
+<h1>  Hi there I'm <a href="https://yigitcakmak.com" target="_blank">Yiğit Çakmak</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
 
 <a href="https://www.linkedin.com/in/yigit-cakmak/" target="_blank"><img align="left" alt="Yiğit Çakmak | LinkedIn" width="25px" src="media/linkedin.svg" /></a>
