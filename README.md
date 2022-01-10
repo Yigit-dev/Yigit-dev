@@ -10,8 +10,10 @@
 <div size='20px'> ❤️ &nbsp;Work to deepen in the fields I enjoy, to come to a good position in computer science with a solid education and experience, and to make the best contributions to this science.</div>
 <div size='20px'> ⚡ &nbsp;I am responsible and I self-organization myself wonderfully. I resolve issues and find best solutions. </div>
 
-<a href = 'https://www.linkedin.com/in/yigit-cakmak'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<p>
+    <a href = 'https://www.linkedin.com/in/yigit-cakmak'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
+</p>
 ## 🛠 &nbsp; Tech Stack
 
 ### Programming Language
