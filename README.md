@@ -11,10 +11,10 @@
 <div size='20px'> ⚡ &nbsp;I am responsible and I self-organization myself wonderfully. I resolve issues and find best solutions. </div>
 </br>
 
-<div size='15px'>
+<p align="center">
     <a href = 'https://www.linkedin.com/in/yigit-cakmak'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
-</div>
+</p>
 
 ## 🛠 &nbsp; Tech Stack
 
