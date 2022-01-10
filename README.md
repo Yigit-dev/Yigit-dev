@@ -2,11 +2,11 @@
     <img width="200" src="media/react.svg">
 </p>
 
-<h1>  Hi there I'm <a href="https://yigitcakmak.com" target="_blank">Yiğit Çakmak</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1>  Hi there I'm <a target="_blank" href="https://yigitcakmak.com">Yiğit Çakmak</a>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-<div size='20px'> Enthusiastic and dynamic software developer with a demonstrated working and never ending passion.  </div>
+<div size='20px'> 💡 Enthusiastic and dynamic software developer with a demonstrated working and never ending passion.  </div>
 <div size='20px'> Work to deepen in the fields I enjoy, to come to a good position in computer science with a solid education and experience, and to make the best contributions to this science.  </div>
 <div size='20px'> I am responsible and I self-organization myself wonderfully. I resolve issues and find best solutions. </div>
 
