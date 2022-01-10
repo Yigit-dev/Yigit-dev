@@ -55,8 +55,8 @@
 
 ![Google Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=microsoft%20sql%20server)&nbsp;
-![SQLite](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=sqlite)&nbsp;
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 ### Tools
 
