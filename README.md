@@ -45,7 +45,7 @@
 
 ### Artificial Intelligence
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=red)&nbsp;
-![Scikit-learn](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 
