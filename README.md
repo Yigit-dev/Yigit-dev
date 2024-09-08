@@ -2,7 +2,7 @@
     <img width="200" src="media/yigit.png">
 </p>
 <!-- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> -->
-<h1>  Hi there I'm <a target="_blank" href="https://yigitcakmak.com">Yiğit Çakmak</a>!  </h1>
+<h1>  Hi there, I'm <a target="_blank" href="https://yigitcakmak.com">Yiğit Çakmak</a>!  </h1>
 <p align='center'>
 </p>
 
