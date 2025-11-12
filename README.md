@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'>💡 &nbsp;Enthusiastic and dynamic software developer with a demonstrated working and never ending passion.  </div>
+<div size='20px'>💡 &nbsp;Enthusiastic and dynamic software engineer with a demonstrated working and never ending passion.  </div>
 <div size='20px'> ⚡ &nbsp;I am responsible and I self-organization myself wonderfully. I resolve issues and find best solutions. </div>
 </br>
 
